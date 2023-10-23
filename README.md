@@ -1,6 +1,5 @@
-# Worlds Robot 2023
-
-2022-2023 Season, Worlds 4/25 to 4/27
+# B TEAM 2024
+2023-2024 Season, Worlds 4/25 to 4/27
 
 ## Contributing Rules
 
